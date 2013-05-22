@@ -11,6 +11,10 @@ import nu.xom.Serializer;
 
 import org.junit.Test;
 
+/**
+ * 
+ * @author vs
+ */
 public class XomTest {
 
 	@Test
